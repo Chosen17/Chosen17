@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/gokugt.gif" width="320" alt="Pixel sprite banner" />
+</div>
+
 <p align="center">
   <a href="https://github.com/Chosen17">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=570&text=Hello%20I'm%20Earle" alt="Hello I&#39;m Earle" />
