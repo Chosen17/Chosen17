@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="assets/gokugt.gif" width="320" alt="Pixel sprite banner" />
-</div>
 
 <p align="center">
   <a href="https://github.com/Chosen17">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=570&text=Hello%20I'm%20Earle" alt="Hello I&#39;m Earle" />
   </a>
 </p>
+
+<div align="center">
+  <img src="assets/gokugt.gif" width="320" alt="Pixel sprite banner" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=%F0%9F%91%8B%20Software%20Engineering%20grad%20(NTU%2C%202%3A1)%20in%20London.;I%20love%20seeing%20what%20human%20ingenuity%20can%20do%20with%20tech%2C%20and%20I%20want%20to%20build%20things%20that%20show%20it." alt="Typing headlines" />
